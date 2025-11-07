@@ -1,4 +1,5 @@
 🚀 Ambadas Gote — Node.js & MERN Development Journey
+
 💡 Overview
 
 This repository is a curated collection of my Node.js experiments, notes, and mini-projects built during my deep dive into backend and full-stack development.
@@ -18,27 +19,28 @@ Every folder represents a focused topic or practical implementation — going be
 
 🧾 Notes, debugging logs, and references from real development cycles
 
+
 🧠 Topics Covered
 
-Node.js runtime, call stack & event loop
-
-Modules, exports/imports, and dependency resolution
-
-Asynchronous I/O & thread pool fundamentals
-
-Server creation with Express.js
-
-Middleware patterns & request routing
-
-MongoDB integration via Mongoose
-
-JWT authentication and bcrypt password encryption
-
-REST API design principles
-
-Real-time apps using WebSockets
-
-AWS deployment & Nginx reverse proxy setup
+   Node.js runtime, call stack & event loop
+   
+   Modules, exports/imports, and dependency resolution
+   
+   Asynchronous I/O & thread pool fundamentals
+   
+   Server creation with Express.js
+   
+   Middleware patterns & request routing
+   
+   MongoDB integration via Mongoose
+   
+   JWT authentication and bcrypt password encryption
+   
+   REST API design principles
+   
+   Real-time apps using WebSockets
+   
+   AWS deployment & Nginx reverse proxy setup
 
 🧩 Major Projects
 ⚙️ DevTinder (Backend)
